@@ -1,0 +1,14 @@
+name: pythonGPU
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - jupyterlab
+  - keras-gpu
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+prefix: C:\Users\mboss\Anaconda3\envs\pythonGPU
+
